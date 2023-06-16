@@ -10,11 +10,11 @@ Complete the following steps:
    
 2.	Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 	
-   i. Use sample_values as the values for the bar chart.
+  	 i. Use sample_values as the values for the bar chart.
   	
-  ii. Use otu_ids as the labels for the bar chart.
+ 	 ii. Use otu_ids as the labels for the bar chart.
   
- iii. Use otu_labels as the hovertext for the chart.
+	 iii. Use otu_labels as the hovertext for the chart.
  
 ### Create a bubble chart that displays each sample.
 
@@ -40,7 +40,7 @@ Update all the plots when a new sample is selected. Additionally, you are welcom
 
 ![image](https://github.com/esu75/Java_Script_Final_BellyButton/assets/118146659/4ed517fe-ebe2-4d84-ba81-275ad2917bec)
 
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
 
 
 
